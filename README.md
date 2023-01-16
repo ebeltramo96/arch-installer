@@ -18,6 +18,8 @@ https://wiki.archlinux.org/title/iwd
 
 `archinstall --config <path to user config file or URL> --disk-layout <path to disk layout config file or URL> --creds <path to user credentials config file or URL>`
 
+`archinstall --config https://github.com/ebeltramo96/archinstaller/blob/main/user_configuration.json --disk-layout https://github.com/ebeltramo96/archinstaller/blob/main/user_disk_layout.json --creds https://github.com/ebeltramo96/archinstaller/blob/main/user_credentials.json`
+
 ### Adapt credentials
   
 The credentials file has default credentials, between "" set your disk encryption password, your default user and his password
