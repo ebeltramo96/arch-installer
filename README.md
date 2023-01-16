@@ -24,7 +24,7 @@ https://wiki.archlinux.org/title/iwd
 
 `archinstall --config /mnt/config.json --disk-layout /mnt/disk.json`
 
-(the installer could fail at this step in case the disk is already partitioned, use `fdisk` to delete them)
+P.S. (the installer could fail at this step in case the disk is already partitioned, use `fdisk` to delete them)
 
 ### Adapt credentials
   
