@@ -22,16 +22,18 @@ https://wiki.archlinux.org/title/iwd
 
 ### My configuration
 
-`archinstall --config /mnt/user_configuration.json --disk-layout /mnt/user_disk_layout.json --creds /mnt/user_credentials.json`
+`archinstall --config /mnt/config.json --disk-layout /mnt/disk.json`
 
 ### Adapt credentials
   
-The `user_credentials.json` file has currently no credentials, during the parameters review before installation, set your disk encryption key, the root password and your local user and password
+The `config.json` file has currently no credentials, during the parameters review before installation, set your disk encryption key, the root password and delete the default local user and add yours
 
-### Select which partition to encrypt:
+### Select which partition to encrypt
   
-When the installation process begins you will be asked to select which partition/s need/s to be encrypted, select them with `TAB` and then press `ENTER`  
+When the installation process begins you will be asked to select which partition/s need/s to be encrypted, select them with `TAB` and then press `ENTER` 
+
+Then press `ENTER` one last time to start the installation process
 
 ## Reboot
 
-`reboot`
+Once the installation is done, reboot the system: `reboot`
