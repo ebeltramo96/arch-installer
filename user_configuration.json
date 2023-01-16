@@ -115,7 +115,6 @@
     "no_pkg_lookups": false,
     "offline": false,
     "packages": [
-        "git",
         "python-pip",
         "docker",
         "rsync",
