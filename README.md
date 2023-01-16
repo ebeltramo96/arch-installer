@@ -26,7 +26,7 @@ https://wiki.archlinux.org/title/iwd
 
 ### Adapt credentials
   
-The credentials file has default credentials, between "" set your disk encryption password, your default user and his password
+The `user_credentials.json` file has currently no credentials, during the parameters review before installation, set your disk encryption key, the root password and your local user and password
 
 ### Select which partition to encrypt:
   
