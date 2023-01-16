@@ -1,4 +1,6 @@
-# Archinstaller edo
+<img src="https://github.com/archlinux/archinstall/raw/master/docs/logo.png" alt="drawing" width="200"/>
+
+# Arch Installer edo
 
 ## Boot from ISO file
 
