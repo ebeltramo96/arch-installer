@@ -12,8 +12,6 @@ https://wiki.archlinux.org/title/iwd
 
 `iwctl --passphrase=PASSPHRASE station DEVICE connect SSID`
 
-## Verify key
-
 ## Launch archinstaller
 
 ### Default configuration
@@ -23,6 +21,16 @@ https://wiki.archlinux.org/title/iwd
 ### My configuration
 
 `archinstall --config https://github.com/ebeltramo96/archinstaller/blob/main/user_configuration.json --disk-layout https://github.com/ebeltramo96/archinstaller/blob/main/user_disk_layout.json --creds https://github.com/ebeltramo96/archinstaller/blob/main/user_credentials.json`
+
+### Install git and clone remote repo
+
+`pacman -Sy git --noconfirm`
+
+`git clone https://github.com/ebeltramo96/archinstaller.git /mnt`
+
+### My configuration
+
+`archinstall --config /mnt/user_configuration.json --disk-layout /mnt/user_disk_layout.json --creds /mnt/user_credentials.json`
 
 ### Adapt credentials
   
