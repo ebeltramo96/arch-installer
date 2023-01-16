@@ -26,7 +26,7 @@ https://wiki.archlinux.org/title/iwd
 
 ### Adapt credentials
   
-The `config.json` file has currently no credentials, during the parameters review before installation, set your disk encryption key, the root password and delete the default local user and add yours
+The `config.json` file has currently no credentials, during the parameters review before installation, set your disk encryption key, the root password and change the default local user password
 
 ### Select which partition to encrypt
   
