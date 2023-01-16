@@ -8,6 +8,8 @@
 
 ## Launch archinstaller
 
+## Adapt credentials
+
 ## Select which disk to encrypt
 
 ## Reboot
