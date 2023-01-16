@@ -10,7 +10,7 @@ Write the ISO file to a USB stick and boot from it (adapt Secure Boot options)
 
 https://wiki.archlinux.org/title/iwd
 
-`iwctl station DEVICE connect SSID`
+`iwctl --passphrase=PASSPHRASE station DEVICE connect SSID`
 
 ## Verify key
 
