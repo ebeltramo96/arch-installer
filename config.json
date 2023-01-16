@@ -150,14 +150,6 @@
     "swap": true,
     "timezone": "Europe/Berlin",
     "version": "2.5.1",
-    "!encryption-password": "my-encryption-password",
-    "!users": [
-        {
-            "!password": "my-user-password",
-            "sudo": true,
-            "username": "my-user"
-        }
-    ],
     "/dev/nvme0n1": {
         "partitions": [
             {
@@ -198,5 +190,13 @@
             }
         ],
         "wipe": true
-    }
+    },
+    "!encryption-password": "my-encryption-password",
+    "!users": [
+        {
+            "!password": "my-user-password",
+            "sudo": true,
+            "username": "my-user"
+        }
+    ]
 }
