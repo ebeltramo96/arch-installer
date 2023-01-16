@@ -155,7 +155,7 @@
         {
             "!password": "my-user-password",
             "sudo": true,
-            "username": "my-user"
+            "username": "edo"
         }
     ]
 }
