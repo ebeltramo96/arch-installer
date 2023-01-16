@@ -1,4 +1,4 @@
-# Archinstaller Edo
+# Archinstaller edo
 
 ## Boot from ISO file
 
