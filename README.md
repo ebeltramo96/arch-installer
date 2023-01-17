@@ -37,9 +37,7 @@ The `config.json` file has no credentials, before the installation, check the op
 - the root password
 - change the default local user password
 
-### Select which partition to encrypt
-  
-When the installation process begins you will be asked to select which partition/s need/s to be encrypted, select it/them with `TAB` and then press `ENTER` 
+### Start the installation
 
 Then press `ENTER` one last time to start the installation process
 
