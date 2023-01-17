@@ -32,7 +32,10 @@ P.S. (the installer could fail at this step in case the disk is already partitio
 
 ### Adapt credentials
   
-The `config.json` file has no credentials, before the installation, check the options and: set your disk encryption key, the root password and change the default local user password
+The `config.json` file has no credentials, before the installation, check the options and:
+- set your disk encryption key
+- the root password
+- change the default local user password
 
 ### Select which partition to encrypt
   
