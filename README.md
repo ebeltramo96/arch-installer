@@ -26,7 +26,7 @@ https://wiki.archlinux.org/title/iwd
 
 `pacman -Sy git --noconfirm`
 
-`git clone https://github.com/ebeltramo96/archinstaller.git /mnt`
+`git clone https://github.com/ebeltramo96/arch-installer.git /mnt`
 
 ### My configuration
 
