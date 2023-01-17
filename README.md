@@ -12,6 +12,10 @@ Write the ISO file to a USB stick and boot from it (adapt Secure Boot options)
 
 ## Authenticate to wi-fi
 
+first, switch to bash:
+
+`bash`
+
 https://wiki.archlinux.org/title/iwd
 
 `iwctl --passphrase=PASSPHRASE station DEVICE connect SSID`
