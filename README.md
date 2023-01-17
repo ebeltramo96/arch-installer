@@ -41,7 +41,7 @@ Now select `Install` to move to the next view
 
 ### Start the installation
 
-At this point the partitions to encrypt are shown, if they are fine, press `ENTER` to start the installation process
+At this point the final configuration is shown, if it's fine, press `ENTER` to start the installation process
 
 ## Reboot
 
