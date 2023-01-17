@@ -1,4 +1,6 @@
-<img src="https://github.com/archlinux/archinstall/raw/master/docs/logo.png" alt="drawing" width="200"/>
+<p align="center">
+  <img src="https://www.archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="alt text" width="600" height="200">
+</p>
 
 # Arch Installer edo
 
