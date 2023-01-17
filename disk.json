@@ -14,7 +14,7 @@
                 "wipe": true
             },
             {
-                "encrypted": false,
+                "encrypted": true,
                 "filesystem": {
                     "format": "ext4",
                     "mount_options": []
@@ -26,13 +26,13 @@
                 "wipe": true
             },
             {
-                "encrypted": false,
+                "encrypted": true,
                 "filesystem": {
                     "format": "ext4",
                     "mount_options": []
                 },
                 "mountpoint": "/home",
-                "size": "100%",
+                "size": "250GiB%",
                 "start": "20GiB",
                 "type": "primary",
                 "wipe": true
