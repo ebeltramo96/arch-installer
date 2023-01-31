@@ -133,6 +133,7 @@
         "mkcert",
         "mlocate",
         "python-pip",
+        "python-pre-commit",
         "python-requests-oauthlib",
         "rsync",
         "starship",
