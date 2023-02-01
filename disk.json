@@ -20,7 +20,7 @@
                     "mount_options": []
                 },
                 "mountpoint": "/",
-                "size": "20GiB",
+                "size": "50GiB",
                 "start": "513MiB",
                 "type": "primary",
                 "wipe": true
