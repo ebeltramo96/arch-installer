@@ -118,10 +118,10 @@
         "aws-cli-v2",
         "bluez",
         "bluez-utils",
-        "cpupower",
         "docker",
         "docker-compose",
         "fwupd",
+        "gnome-themes-extra",
         "helm",
         "jq",
         "k9s",
@@ -140,8 +140,6 @@
         "terraform",
         "terragrunt",
         "tig",
-        "gnome-themes-extra",
-        "tlp"
     ],
     "profile": {
         "path": "/usr/lib/python3.10/site-packages/archinstall/profiles/desktop.py"
