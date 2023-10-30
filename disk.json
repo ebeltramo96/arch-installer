@@ -20,8 +20,8 @@
                     "mount_options": []
                 },
                 "mountpoint": "/",
-                "size": "200GiB",
-                "start": "513MiB",
+                "size": "100GiB",
+                "start": "537MiB",
                 "type": "primary",
                 "wipe": true
             },
@@ -32,8 +32,8 @@
                     "mount_options": []
                 },
                 "mountpoint": "/home",
-                "size": "60%",
-                "start": "201GiB",
+                "size": "200GiB",
+                "start": "100GiB",
                 "type": "primary",
                 "wipe": true
             }
