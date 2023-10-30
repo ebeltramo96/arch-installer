@@ -139,7 +139,7 @@
         "starship",
         "terraform",
         "terragrunt",
-        "tig",
+        "tig"
     ],
     "profile": {
         "path": "/usr/lib/python3.10/site-packages/archinstall/profiles/desktop.py"
