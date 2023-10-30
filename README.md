@@ -10,6 +10,11 @@ Download the latest ISO file from: https://archlinux.org/download/
 
 Write the ISO file to a USB stick and boot from it (adapt Secure Boot options)
 
+## Partitions status
+
+If the disk has no partitions skip this step
+In case the disk has already partitions, use `fdisk -l` and delete them, reboot the laptop and restart the installation
+
 ## Authenticate to wi-fi
 
 first, switch to bash:
@@ -33,8 +38,6 @@ https://wiki.archlinux.org/title/iwd
 ### My configuration
 
 `archinstall --config /mnt/config.json --disk-layout /mnt/disk.json`
-
-P.S. (the installer could fail at this step in case the disk is already partitioned, use `fdisk` to delete them)
 
 ### Adapt credentials
   
