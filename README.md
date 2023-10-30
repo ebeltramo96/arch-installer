@@ -26,7 +26,7 @@ https://wiki.archlinux.org/title/iwd
 
 `pacman-key --init`
 
-`pacman -Sy git --noconfirm`
+`pacman -Sy git glibc --noconfirm`
 
 `git clone https://github.com/ebeltramo96/arch-installer.git /mnt`
 
