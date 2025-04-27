@@ -32,7 +32,7 @@ https://wiki.archlinux.org/title/iwd
 
 then exit, and connect to the wi-fi:
 
-`iwctl --passphrase=PASSPHRASE station DEVICE connect SSID`
+`iwctl --passphrase PASSPHRASE station DEVICE connect SSID`
 
 ## Launch archinstaller
 
