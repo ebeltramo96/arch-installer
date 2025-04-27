@@ -12,9 +12,9 @@ Write the ISO file to a USB stick and boot from it (adapt Secure Boot options)
 
 ## Partitions status
 
-If the disk has no partitions skip this step.
+If the laptop's disk has no partitions, skip this step.
 
-In case the disk has already partitions, use `fdisk -l` and delete them, reboot the laptop and restart the installation
+In case the disk already has partitions, use `fdisk -l` and delete them, reboot the laptop and restart the installation
 
 ## Authenticate to wi-fi
 
