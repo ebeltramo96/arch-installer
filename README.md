@@ -22,7 +22,15 @@ first, switch to bash:
 
 `bash`
 
+then, enter _iwctl_ and list the devices:
+
+`iwctl`
+
+`device list`
+
 https://wiki.archlinux.org/title/iwd
+
+then exit, and connect to the wi-fi:
 
 `iwctl --passphrase=PASSPHRASE station DEVICE connect SSID`
 
